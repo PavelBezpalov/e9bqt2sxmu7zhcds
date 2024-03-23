@@ -1,0 +1,11 @@
+## Interface: 100205
+## Title: e9bqt2sxmu7zhcds
+## Notes: e9bqt2sxmu7zhcds
+## LoadOnDemand: 0
+## DefaultState: enabled
+## Dependencies: bxhnz7tp5bge7wvu
+
+spellbook.lua
+devastation.lua
+preservation.lua
+augmentation.lua
